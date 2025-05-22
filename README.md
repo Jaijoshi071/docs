@@ -24,7 +24,7 @@
 
 ---
 
-# ⚪ CO2NEX: Real-Time Carbon Credit Certification at Planetary Scale  
+# ⚪ CO2NEX: Real-Time Carbon Credit Verifiaction and Certification  
 **Version 1.0 | May 2025**
 
 > ⚙️ Developer documentation for CO2NEX APIs, SDKs, smart contracts, and ecosystem integration tools.
