@@ -1,6 +1,31 @@
-# docs
-Developer documentation for CO2NEX APIs, SDKs, and integration guides.
-# 📚 CO2NEX Developer Docs
+# 📘 CO2NEX Developer Docs
+
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE.md)
+[![Built with AI](https://img.shields.io/badge/AI-Verified-blue)](#)
+[![Status](https://img.shields.io/badge/status-Active-brightgreen)](#)
+[![Climate](https://img.shields.io/badge/topic-Climate-lightgrey)](#)
+[![Carbon Credits](https://img.shields.io/badge/topic-Carbon--Credits-lightgrey)](#)
+[![Blockchain](https://img.shields.io/badge/topic-Blockchain-lightgrey)](#)
+[![MRV](https://img.shields.io/badge/topic-MRV-lightgrey)](#)
+[![Documentation](https://img.shields.io/badge/type-Docs-blueviolet)](#)
+
+---
+
+## 📦 Release Info
+
+![Latest Release](https://img.shields.io/github/v/release/co2nex/co2nex-platform?include_prereleases)
+
+**Tag:** `v1.0.0-alpha`  
+**Status:** ⛔ Not production ready (Alpha)  
+**Changelog:** [View Release Notes](https://github.com/co2nex/co2nex-platform/releases/tag/v1.0.0-alpha)
+
+> 🧪 This repository hosts **developer documentation** for CO2NEX APIs, SDKs, smart contracts, and integration tooling.  
+> Full docs coming soon — this repo evolves with every technical milestone.
+
+---
+
+# ⚪ CO2NEX: Real-Time Carbon Credit Certification at Planetary Scale  
+**Version 1.0 | May 2025**
 
 > ⚙️ Developer documentation for CO2NEX APIs, SDKs, smart contracts, and ecosystem integration tools.
 
